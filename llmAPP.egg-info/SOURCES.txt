@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+llmAPP.egg-info/PKG-INFO
+llmAPP.egg-info/SOURCES.txt
+llmAPP.egg-info/dependency_links.txt
+llmAPP.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
